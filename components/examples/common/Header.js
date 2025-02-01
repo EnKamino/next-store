@@ -44,22 +44,13 @@ export default function Header() {
           </div>
           <nav className="hidden md:flex space-x-10">
             <a href="#" className={s.menuLink}>
-              New Arrivals
+              Shop NFC Cards
             </a>
             <a href="#" className={s.menuLink}>
-              Electronics
+              Pricing
             </a>
             <a href="#" className={s.menuLink}>
-              Home & Furniture
-            </a>
-            <a href="#" className={s.menuLink}>
-              Jewelry
-            </a>
-            <a href="#" className={s.menuLink}>
-              Watches
-            </a>
-            <a href="#" className={s.menuLink}>
-              Sale
+              About
             </a>
           </nav>
           <div className="hidden md:flex items-center justify-end space-x-8 md:flex-1 lg:w-0">
